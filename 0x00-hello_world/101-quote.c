@@ -1,8 +1,9 @@
+#include <stdio.h>
 #include <unistd.h>
 /**
- * main - A prgram that prints a string to the standard error
+ * main - A program that prints a line to the standard error
  *
- * Retrn: 1 if success.
+ * Retrn: 1 (Success)
  */
 int main(void)
 {

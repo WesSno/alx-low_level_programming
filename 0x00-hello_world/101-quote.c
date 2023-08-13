@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * main - Entry point
+ * main - A prgram that prints a string to the standard error
  *
  * Retrn: 1 if success.
  */

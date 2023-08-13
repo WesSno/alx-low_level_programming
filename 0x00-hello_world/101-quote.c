@@ -3,10 +3,10 @@
 /**
  * main - A program that prints a line to the standard error
  *
- * Retrn: 1 (Success)
+ * Return: 1 (Success)
  */
 int main(void)
 {
-	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
+	fput("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdout);
 	return (1);
 }

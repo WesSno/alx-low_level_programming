@@ -2,7 +2,10 @@
 /**
  * main - Entry point
  *
- * Retrun: Always 0 (Success)
+ * Description: 'A program that prints all possible different
+ * combinations of two digits'
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

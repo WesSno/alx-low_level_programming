@@ -15,7 +15,7 @@ int main(void)
 	{
 		for (g = f; g <= 99; g++)
 		{
-			if ( g != f)
+			if (g != f)
 			{
 				putchar('0' + (f / 10));
 				putchar('0' + (f % 10));
